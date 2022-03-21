@@ -1,0 +1,11 @@
+DarkSoulsPath = "C:\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA"
+DarkSoulsTestsToSkip = []
+DarkSoulsIIPath = "C:\Program Files (x86)\Steam\steamapps\common\Dark Souls II Scholar of the First Sin\Game"
+DarkSoulsIITestsToSkip = []
+DarkSoulsIIIPath = "C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game"
+DarkSoulsIIITestsToSkip = []
+SekiroPath = "C:\Program Files (x86)\Steam\steamapps\common\Sekiro"
+SekiroTestsToSkip = []
+OldBinderToolPath = "REPLACE ME"
+NewBinderToolPath = "REPLACE ME"
+OutputPath = "C:\tmp"
